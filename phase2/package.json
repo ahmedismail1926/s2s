@@ -1,0 +1,20 @@
+{
+  "name": "kb_s2s_phase2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@jambonz/node-client-ws": "^0.2.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pino": "^9.6.0"
+  }
+}
